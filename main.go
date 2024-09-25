@@ -25,7 +25,7 @@ func fileLen(name string) (int, error) {
 	}
 	defer closer()
 
-	data := make([]byte, 2048)
+	data := make([]byte, 1_000_000)
 
 	count, err := f.Read(data)
 	if err != nil {
