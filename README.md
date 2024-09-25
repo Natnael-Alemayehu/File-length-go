@@ -20,8 +20,7 @@ The program takes the file name as a command-line argument, opens the file, and 
 
 1. Clone the repository:
 
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Natnael-Alemayehu/File-length-go.git)
+   git clone [repo](https://github.com/Natnael-Alemayehu/File-length-go.git)
 
 
 Here's the complete README file in markdown style for your Go program:
